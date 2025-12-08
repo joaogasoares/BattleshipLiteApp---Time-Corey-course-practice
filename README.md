@@ -1,10 +1,10 @@
-# 🚢 Battleship Lite App
+#  Battleship Lite App
 
 Este é uma aplicação de console que simula o clássico jogo de tabuleiro "Batalha Naval". Este projeto foi desenvolvido como o projeto de conclusão (Capstone Project) da seção de Fundamentos de C# do curso **C# Masterclass** do **Tim Corey**.
 
 O objetivo principal deste projeto não é apenas criar um jogo, mas demonstrar o domínio de **Lógica de Programação**, **Programação Orientada a Objetos (POO)** e, crucialmente, a **Separação de Responsabilidades (Separation of Concerns)**.
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 O jogo permite que dois jogadores (ou um jogador vs lógica simples) posicionem seus navios em um grid e tentem afundar a frota do oponente através de coordenadas (ex: A5, B2).
 
@@ -22,7 +22,7 @@ O jogo permite que dois jogadores (ou um jogador vs lógica simples) posicionem 
 * **Framework:** .NET (Core / 5 / 6 / 8 - *ajuste conforme sua versão*)
 * **Tipo de Aplicação:** Console Application
 
-## 🏗️ Arquitetura e Design
+##  Arquitetura e Design
 
 Seguindo os ensinamentos do curso, a solução é dividida para respeitar o princípio de **Single Responsibility Principle (SRP)**:
 
