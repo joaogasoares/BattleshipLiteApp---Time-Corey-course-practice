@@ -19,7 +19,7 @@ O jogo permite que dois jogadores (ou um jogador vs lógica simples) posicionem 
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** C#
-* **Framework:** .NET (Core / 5 / 6 / 8 - *ajuste conforme sua versão*)
+* **Framework:** .NET Core 5 
 * **Tipo de Aplicação:** Console Application
 
 ##  Arquitetura e Design
